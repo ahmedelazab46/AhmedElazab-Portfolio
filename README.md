@@ -19,7 +19,7 @@
 
 ## 🧪 Projects
 
-### 🏥 [Database Management System Using Bash Scripting](./Projects/Bash Scripting/)
+### 🏥 [Database Management System Using Bash Scripting](./Projects/DBMS (Bash)/)
 
 
 
