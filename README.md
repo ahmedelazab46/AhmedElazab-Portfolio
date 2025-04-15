@@ -20,7 +20,7 @@
 ## 🧪 Projects
 
 ### 🏥 [Database Management System Using Bash Scripting](./Projects/Bash Scripting/)
-> A full Odoo module for managing hospital departments, doctors, and patient records with dynamic validations.
+
 
 
 ---
@@ -35,9 +35,4 @@
 
 You can find them in the [`Certificates`](./Certificates/) folder.
 
----
-
-## 📄 Resume
-
-Check my full [resume](./Resume/AhmedElazab_CV.pdf).
 
